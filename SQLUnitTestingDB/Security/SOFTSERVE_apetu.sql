@@ -1,0 +1,3 @@
+﻿CREATE LOGIN [SOFTSERVE\apetu]
+    FROM WINDOWS;
+
